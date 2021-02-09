@@ -1,1 +1,2 @@
-
+#eleje
+print("jó")
